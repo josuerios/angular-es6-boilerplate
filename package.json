@@ -1,0 +1,19 @@
+{
+  "name": "angular-es6-boilerplate",
+  "version": "0.0.1",
+  "description": "angular app boilerplate using es6 features, using gulp, babel and browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdavoff/angular-es6-boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdavoff/angular-es6-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jdavoff/angular-es6-boilerplate#readme"
+}
